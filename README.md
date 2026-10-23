@@ -1,4 +1,4 @@
-# Oii! Eu sou o Samuel Sampaio ⭐️
+# Opa! Eu sou o Samuel Sampaio ⭐️
 
 Desenvolvedor focado em front-end e aplicações full-stack, apaixonado por criar coisas para a web. Gosto de transformar ideias em interfaces rápidas, limpas e fáceis de usar, com React, Next.js e TypeScript. Estou sempre aprendendo algo novo, quebrando e consertando código e tentando deixar cada projeto melhor que o anterior.
 
