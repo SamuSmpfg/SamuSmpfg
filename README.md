@@ -1,23 +1,37 @@
-# Opa! Eu sou o Samuel Sampaio 👨🏾‍💻
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-Desenvolvedor focado em front-end e aplicações full-stack, apaixonado por criar coisas para a web. Gosto de transformar ideias em interfaces rápidas, limpas e fáceis de usar, com React, Next.js e TypeScript. Estou sempre aprendendo algo novo, quebrando e consertando código e tentando deixar cada projeto melhor que o anterior.
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-<p>
-  <img align="top" src="https://github-stats-extended.vercel.app/api?username=SamuSmpfg&show_icons=true&hide=contribs&line_height=20&bg_color=3F334D&title_color=FCD581&text_color=D7F9FF&icon_color=FCD581&ring_color=D62246&border_color=574B60&border_radius=8" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuSmpfg&layout=compact&langs_count=8&bg_color=3F334D&title_color=FCD581&text_color=D7F9FF&border_color=574B60&border_radius=8" alt="Most Used Languages" />
-</p>
+###
 
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, HTML e CSS" />
-</p>
-
----
-
-<p>
-  <a href="mailto:samuellopssampaio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D62246?style=for-the-badge&logo=gmail&logoColor=D7F9FF" alt="Gmail" />
-  </a>
-</p>
+###
