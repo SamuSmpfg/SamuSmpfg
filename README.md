@@ -58,8 +58,6 @@ Desenvolvedor focado em **front-end** e aplicações **full-stack**, apaixonado 
 
 <br />
 
-## 🐍 Devorando commits
-
 <div align="center">
 
 <picture>
